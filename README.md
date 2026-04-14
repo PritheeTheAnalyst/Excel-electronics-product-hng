@@ -66,7 +66,10 @@ These insights could help increase product availability and potentially improve 
 
 
 ## 📄 Report
-You can view the full report here:
+You can view the full report here: 
+<a href= "[https://docs.google.com/presentation/d/1b4o5tnjI7Sm5koMdoqgWRnNBFQFFv_HJ/edit?usp=drive_link&ouid=110649732720417556478&rtpof=true&sd=true]"> Report pdf</a>
+
+<a href="[https://docs.google.com/spreadsheets/d/1_9VJSXW5d__mdXWJuL7bck9n5Slv5z86/edit?usp=drive_link&ouid=110649732720417556478&rtpof=true&sd=true]"> Excel Data</a> 
 
 
 ## 🚀 Conclusion
